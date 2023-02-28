@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+}
+
+.foto {
+    text-align: center;
+}
+
+.espacio {
+    height: 80px;
+}
+
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.sub-titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 5px;
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+}
+
+.italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+dl {
+    text-align: left;
+}
+
+.pie-pagina {
+    text-align: center;
+    background-color: #005677;
+    color: #FFFFFF;
+}
